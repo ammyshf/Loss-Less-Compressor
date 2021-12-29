@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"debug"
+			],
+			[
+				"lo",
+				"logarr"
+			],
+			[
+				"cnt",
+				"cnt_mx_1"
+			],
+			[
+				"cnt_",
+				"cnt_mx_1"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cnt_a",
+				"cnt_ar"
+			],
+			[
+				"e",
+				"e_sum"
+			],
+			[
+				"s_",
+				"s_a1"
+			],
+			[
+				"cn",
+				"cnt_b"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"O",
+				"OUT"
+			],
+			[
+				"se",
+				"second_min"
+			],
+			[
+				"o",
+				"OUT"
+			],
+			[
+				"fir",
+				"first_val"
+			],
+			[
+				"val",
+				"val_10"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"int",
+				"int64_t"
+			],
+			[
+				"po",
+				"pos_zero"
+			],
+			[
+				"min",
+				"min_time"
+			],
+			[
+				"pos",
+				"pos_zero"
+			],
+			[
+				"max",
+				"max_profit"
+			],
+			[
+				"hom",
+				"hom_mat"
+			],
+			[
+				"u",
+				"upper_bound"
+			],
+			[
+				"til",
+				"tile_place"
+			],
+			[
+				"al",
+				"all_occ"
+			],
+			[
+				"s",
+				"size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/OneDrive/Documents/.cpp",
+		"/C/Users/DELL/OneDrive/Documents/output.txt",
+		"/C/Users/DELL/OneDrive/Documents/Error.txt",
+		"/C/Users/DELL/OneDrive/Documents/lcsubstring.cpp",
+		"/C/Users/DELL/OneDrive/Documents/spoj_ACODE.cpp",
+		"/C/Users/DELL/OneDrive/Documents/coin_dp.cpp",
+		"/C/Users/DELL/OneDrive/Documents/cleint.py",
+		"/C/Users/DELL/OneDrive/Documents/sever.py",
+		"/C/Users/DELL/OneDrive/Documents/p.cpp",
+		"/C/Users/DELL/OneDrive/Documents/e.cpp",
+		"/C/Users/DELL/OneDrive/Documents/m.cpp",
+		"/C/Users/DELL/OneDrive/Documents/in",
+		"/C/Users/DELL/OneDrive/Documents/E",
+		"/C/Users/DELL/OneDrive/Documents/err",
+		"/C/Users/DELL/OneDrive/Documents/nth real root.cpp",
+		"/C/Users/DELL/OneDrive/Documents/modularexpo.cpp",
+		"/C/Users/DELL/OneDrive/Documents/n.cpp",
+		"/C/Users/DELL/OneDrive/Documents/modular expo(binary expo).cpp",
+		"/C/Users/DELL/OneDrive/Documents/inverse(global)_extended_gcd.cpp",
+		"/C/Users/DELL/OneDrive/Documents/modulo_inverse(723b).cpp",
+		"/C/Users/DELL/OneDrive/Documents/s.cpp",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/DELL/OneDrive/Documents/bf_string.cpp",
+		"/C/Users/DELL/OneDrive/Documents/suffix_arr_LCP.cpp",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/DELL/OneDrive/Documents/c++stl",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/DELL/OneDrive/Desktop/CODE/Error.txt",
+		"/C/Users/DELL/OneDrive/Desktop/CODE/laddera.cpp",
+		"/C/Users/DELL/Desktop/Code/b.cpp",
+		"/C/Users/DELL/OneDrive/Desktop/CODE/output.txt",
+		"/C/Users/DELL/Desktop/Code/A.cpp",
+		"/C/Users/DELL/Desktop/Code/input.txt",
+		"/C/Users/DELL/Desktop/Code/output.txt",
+		"/C/Users/DELL/Desktop/Code/prob2presum.cpp",
+		"/C/Users/DELL/Desktop/Code/bs1.cpp",
+		"/C/Users/DELL/Desktop/Code/swt4.cpp",
+		"/C/Users/DELL/Desktop/Code/digitprimes.cpp",
+		"/C/Users/DELL/Desktop/Code/1.cpp",
+		"/C/Users/DELL/Desktop/Code/prefixsum.cpp",
+		"/C/Users/DELL/Desktop/Code/2.cpp",
+		"/C/Users/DELL/Desktop/Code/amaan.cpp",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/c++17.sublime-build",
+		"/C/Users/DELL/Desktop/Code/cf.cpp",
+		"/C/Users/DELL/Desktop/Code/outputf.in",
+		"/C/Users/DELL/Desktop/Code/inputf.in",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/c++14.sublime-build",
+		"/C/Users/DELL/Desktop/Code/output1.txt",
+		"/C/Users/DELL/Desktop/Code/input1.txt",
+		"/C/Users/DELL/Desktop/Code/3.cpp",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/output1.txt",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/input1.txt",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/output.txt",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/input.txt",
+		"/C/Users/DELL/Desktop/Code/output.in",
+		"/C/Users/DELL/Desktop/Code/input.in",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/DELL/Desktop/output.in",
+		"/C/Users/DELL/Desktop/input.in",
+		"/C/Users/DELL/Desktop/1.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++17.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 76.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
